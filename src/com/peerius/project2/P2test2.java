@@ -8,4 +8,8 @@ package com.peerius.project2;
 public class P2test2
 {
 
+	public P2test2()
+	{
+
+	}
 }
