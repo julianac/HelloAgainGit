@@ -11,6 +11,5 @@ public class P2test2
 	public P2test2()
 	{
 		final int uselessInteger = 0;
-		final int secondInt = 1;
 	}
 }
