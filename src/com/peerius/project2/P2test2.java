@@ -11,5 +11,6 @@ public class P2test2
 	public P2test2()
 	{
 		final int useless = 0;
+		int a = 2;
 	}
 }
