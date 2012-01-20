@@ -10,7 +10,7 @@ public class P2test2
 	//this is the useless empty constructor
 	public P2test2()
 	{
-		final int useless = 0;
+		final int uselessInt = 0;
 		int a = 2;
 	}
 }
