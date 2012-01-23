@@ -12,5 +12,6 @@ public class P2test2
 	{
 		final int useless = 88;
 		final int useless2 = 55;
+		int a = 2;
 	}
 }
