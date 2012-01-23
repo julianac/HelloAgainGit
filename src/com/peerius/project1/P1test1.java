@@ -7,5 +7,9 @@ package com.peerius.project1;
  */
 public class P1test1
 {
-
+	public String uselessMethod()
+	{
+		final String nothing = null;
+		return nothing;
+	}
 }
