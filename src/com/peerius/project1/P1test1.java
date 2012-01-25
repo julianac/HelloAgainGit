@@ -10,6 +10,7 @@ public class P1test1
 	public boolean uselessMethod()
 	{
 		final String nothing = null;
+		final String b = "dsgdsf";
 		return true;
 	}
 }
