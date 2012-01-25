@@ -18,11 +18,7 @@ public class P2test2
 
 	public void hello()
 	{
-	}
 
-	public void emptyMethod()
-	{
-		int b = 0;
 	}
 
 	public void hello2()
