@@ -20,10 +20,11 @@ public class P2test2
 	{
 
 	}
-	public void hello3() {
+
+	public void hello3()
+	{
 		final boolean isTrue = true;
 	}
-
 
 	public void hello2()
 	{
