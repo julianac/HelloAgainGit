@@ -16,4 +16,9 @@ public class P2test2
 		final float testing3 = 2;
 		final int b = 5;
 	}
+
+	public void hello()
+	{
+
+	}
 }
