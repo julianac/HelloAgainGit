@@ -19,7 +19,6 @@ public class P2test2
 
 	public void hello()
 	{
-
 	}
 
 	public void emptyMethod()
