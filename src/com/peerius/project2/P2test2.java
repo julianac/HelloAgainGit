@@ -21,6 +21,10 @@ public class P2test2
 	{
 	}
 
+	public void hello3()
+	{
+	}
+
 	public void emptyMethod()
 	{
 		int b = 0;
