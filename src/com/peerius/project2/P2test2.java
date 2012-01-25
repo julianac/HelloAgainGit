@@ -20,14 +20,12 @@ public class P2test2
 	{
 
 	}
-
-	public void hello3()
-	{
-
+	public void hello3() {
+		
 	}
+
 
 	public void hello2()
 	{
-
 	}
 }
