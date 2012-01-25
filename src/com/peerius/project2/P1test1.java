@@ -1,4 +1,4 @@
-package com.peerius.project1;
+package com.peerius.project2;
 
 /**
  * @author kostantinos.kougios
