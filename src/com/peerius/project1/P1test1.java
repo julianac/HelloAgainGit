@@ -9,7 +9,7 @@ public class P1test1
 {
 	public String uselessMethod()
 	{
-		final String nothing = null;
-		return nothing;
+		final String nothing2 = null;
+		return nothing2;
 	}
 }

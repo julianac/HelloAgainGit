@@ -17,4 +17,9 @@ public class P2test2
 		final float testing3 = 2;
 		int b = 5;
 	}
+
+	public void emptyMethod()
+	{
+		int b = 0;
+	}
 }
