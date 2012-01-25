@@ -10,12 +10,16 @@ public class P2test2
 	//this is the useless empty constructor
 	public P2test2()
 	{
-		final int uselessInt = 0;
 		final int useless = 88;
 		final int useless2 = 55;
-		int a = 2;
+		final int a = 2;
 		final float testing3 = 2;
-		int b = 5;
+		final int b = 5;
+	}
+
+	public void hello()
+	{
+
 	}
 
 	public void emptyMethod()
